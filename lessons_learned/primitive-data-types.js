@@ -1,3 +1,3 @@
-var firstLetter = "Aaron M. Trovillion".charAt(0)
-console.log(firstLetter)
+var firstLetter = "Aaron M. Trovillion".charAt(0);
+console.log(firstLetter);
 
