@@ -17,3 +17,4 @@
 
 >Why is it important to track changes to the upstream repository after you create your initial fork?
 * If your local repository differs from the remote upstream, there could be conflicts between your additions and those of other team members.
+* Added pursuant to revision request: Further, tracking changes to the upstream repository allows you to get updates on changes in the project.
